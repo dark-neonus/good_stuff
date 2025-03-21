@@ -33,3 +33,5 @@
 
 # For dynamic ignoring
 __*
+
+.vscode/
